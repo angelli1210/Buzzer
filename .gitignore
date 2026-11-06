@@ -1,0 +1,23 @@
+# Build output
+build/
+.pio/
+*.hex
+*.elf
+*.map
+*.bin
+
+# Keep music data and lecture source documents out of this demo.
+*.mid
+*.midi
+*.mp3
+*.wav
+*.pdf
+*.ppt
+*.pptx
+
+# Local workspace and OS files
+tmp/
+verification/
+.codex-remote-attachments/
+.DS_Store
+Thumbs.db
